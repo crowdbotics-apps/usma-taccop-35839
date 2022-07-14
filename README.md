@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [screen-notifications-list](screens/notifications)
 - [react-native-user-profile](modules/user-profile)
+- [screen-direct-messages](screens/direct-messages)
 
 # Getting started: Frontend
 

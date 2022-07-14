@@ -1233,13 +1233,13 @@
 "@screens/login@file:./screens/login":
   version "1.0.0"
 
-"@screens/login@file:./screens/login/":
-  version "1.0.0"
-
 "@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
 "@screens/welcome@file:./screens/welcome":
+  version "1.0.0"
+
+"@screens/welcome@file:./screens/welcome/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
